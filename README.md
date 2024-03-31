@@ -1,3 +1,3 @@
 # django-rest-framework-tutorial
 
-Django Rest Framework Getting Started Tutorial
+Django Rest Framework 'Getting Started' Tutorial
